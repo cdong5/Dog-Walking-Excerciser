@@ -1,7 +1,7 @@
-# Dog Walking Exerciser
-Exercise while walking your dog!
+<h1> # Dog Walking Exerciser</h1>
+Exercise while walking your dog! 
 ---------------------------------
-Work in Progress
+
 ---------------------------------
 1) Open and run project
 2) Enter the amount of time you have in minutes
