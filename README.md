@@ -10,7 +10,7 @@ How to Use
 Future Implimentations  
 ---------------------------------
 1) Impliment Google maps API  
-  - [ ] Starting location  
-  - [ ] Ending Location  
+    - [ ] Starting location  
+    - [ ] Ending Location  
 2) "Excercises to do" checklist  
-  - [ ] Check the ones you want to do / dont want to do  
+    - [ ] Check the ones you want to do / dont want to do  
